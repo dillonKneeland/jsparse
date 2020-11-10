@@ -1,0 +1,17 @@
+{
+  "name": "jsparse",
+  "version": "2020.0.1",
+  "description": "A parser generator writen in javascript/typescript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parser",
+    "babel",
+    "transpiling",
+    "generator"
+  ],
+  "author": "Dillon Kneeland",
+  "license": "SEE LICENSE IN LICENSE.adoc"
+}
