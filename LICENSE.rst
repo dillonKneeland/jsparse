@@ -10,12 +10,12 @@ For purposes of the foregoing, “Sell” means practicing any or all of the rig
 
 .. _software:
 
-Software: [name software]
+Software: jsparse
 
 .. _license:
 
-License: [i.e. Apache 2.0]
+License: MIT
 
 .. _licensor:
 
-Licensor: [ABC company]
+Licensor: Dillon Kneeland
